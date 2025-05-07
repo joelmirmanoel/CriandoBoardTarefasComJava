@@ -1,4 +1,4 @@
-# DIO Decola Tech 2025
+# DIO
 
 Criando Board de Tarefas com Java.
 
